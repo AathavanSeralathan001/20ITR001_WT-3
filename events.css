@@ -1,0 +1,15 @@
+.card{
+    display: flex;
+    
+}
+.card-text{
+    font-size: 20px !important;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.formcss
+{
+    margin: 0 auto; 
+    float: none;
+    margin-bottom: 10px; 
+}

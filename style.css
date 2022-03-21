@@ -1,0 +1,89 @@
+body{
+   background-color:lavender;
+
+}
+
+.navbar-brand{
+      color: darkorchid !important;
+
+}
+
+.image-top{
+   align-items: center;
+}
+
+.HOD{
+    color: mediumorchid;
+    text-align: center;
+}
+.hod_name{
+    color:navy ;
+    text-align: center;
+}
+
+.carousel-inner{
+   
+    padding-top: 20px;
+    /* left:250px ; */
+   
+width: 700px !important;
+    max-height: 400px !important;
+}
+.carousel {
+    /* left:250px; */
+
+    display: flex;
+   justify-content: center;
+
+}
+
+.vision{
+    background-color: rgba(221, 134, 128, 0.4);
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mission{
+    background-color: rgba(153, 128, 221, 0.4);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bus{
+    width: 500px;
+    height: 200px;
+}
+
+.it{
+    width: 300px;
+    height: 200px;
+}
+
+.objective{
+  background-color:rgb(205, 245, 231);
+  color:rgb(27, 63, 50);
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer{
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(169, 241, 241);
+    font-family: cursive ;
+    color: blueviolet;
+   
+    
+}
+.foo{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navbar-brand{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+.nav-item{
+    font-size: 20px;
+}
+

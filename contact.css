@@ -1,0 +1,32 @@
+.map{
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    
+    text-align: center;
+   font-family: serif;
+    font-size: 50px;
+    color: navy;
+    margin: 20px;
+    background-color: aliceblue;
+    border: 3px solid rgb(63, 152, 224);
+}
+.about_head{
+    padding: 30px;
+    padding-bottom: 0px;
+    font-size: 50px;
+   color: darkblue;
+    font-family: serif;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    font-size: 20px;
+    
+}
+.entrance{
+    margin-top: 130px !important;
+    margin-bottom: 100px !important;
+    margin: 10px;
+}
